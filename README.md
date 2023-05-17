@@ -3,7 +3,7 @@ three-levels-of-projects (js projects)
 lv1
 
 1. todoapp [ check ]
-2. expenseTracker
+2. expenseTracker [ check ]
 
 lv2
 
